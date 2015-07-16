@@ -3,15 +3,15 @@ import time
 import os
 
 paths = (
-    "//nplqadb1/rman/qa10",
-    "//nplqadb1/rman/qa10g",
-    "//nplqadb1/rman/qa10ep",
-    "//nplqadb1/rman/qa10sig",
-    "//nplqadb1/rman/qapatch",
-    "//nplpmsdb3/rma/des9i",
-    "//tracker2/rman",
-    "//Nplvault/rman",
-    "//nplbuildsvr/rman"
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
+    "//xxxx/xxxx/xxx",
 )
 
 #Declare the variables
